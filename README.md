@@ -11,7 +11,7 @@
 
 <h1>🖥Desktop</h1>
 <p align="center">
-    <img align="right" height="590em" src="images/crachaDesktop.png"/> 
+    <img align="right"  src="images/crachaDesktop.png"/> 
 </p>
 
 
