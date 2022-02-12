@@ -12,7 +12,7 @@
 
 <h1>📱Mobile</h1>
 <p align="center">
-    
+    <img align="right"  src="images/mobileCra.png"/> 
 </p>
 
 <h1>🖥Desktop</h1>
