@@ -12,7 +12,7 @@
 
 <h1>📱Mobile</h1>
 <p align="center">
-    <img height="590em" src="images/crachaMobile.png"/>
+    
 </p>
 
 <h1>🖥Desktop</h1>
