@@ -17,11 +17,11 @@ html, body {
 body {
   display: grid;
   place-items: center;
-  background: url("/images/background-desktop.png") no-repeat top/cover fixed;
+  background: url("images/background-desktop.png") no-repeat top/cover fixed;
 }
 
 main {
-  background: url("/images/background.svg");
+  background: url(images/background.svg);
   width: 375px;
   height: 812px;
   position: relative;
@@ -104,7 +104,7 @@ ul li a img:hover {
 @media (min-width: 1024px) {  
 
   main {
-    background: url("/images/mask.svg") no-repeat var(--black);
+    background: url(images/mask.svg) no-repeat var(--black);
     width: 358px;
     height: 540px;
     border-radius: 0.5rem;
